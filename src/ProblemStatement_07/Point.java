@@ -1,5 +1,5 @@
 package ProblemStatement_07;
-
+// point class
 public class Point {
     private double x;
     private double y;

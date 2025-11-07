@@ -1,5 +1,5 @@
 package ProblemStatement_2;
-
+//problem 2
 public class StandOutSum {
     int totalSum ;
     int [] nums;
