@@ -1,6 +1,6 @@
 package ProblemStatement_5;
 import java.util.*;
-
+// problem 5 main
 public class Main {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);

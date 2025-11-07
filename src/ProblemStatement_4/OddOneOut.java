@@ -1,7 +1,7 @@
 package ProblemStatement_4;
 
 import java.util.Arrays;
-
+// problem 4
 public class OddOneOut {
     public void findUniqueElements(int[] arr) {
         System.out.print("Unique elements: ");

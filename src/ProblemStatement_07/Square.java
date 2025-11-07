@@ -1,5 +1,5 @@
 package ProblemStatement_07;
-
+// square class
 public class Square extends Shape {
     private double side;
 

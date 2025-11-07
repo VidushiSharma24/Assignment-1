@@ -1,5 +1,5 @@
 package ProblemStatement_6;
-
+// problem 6
 public class MinimalistPainter {
     public static void minimalistPainter(int arr[]) {
         int max = Integer.MIN_VALUE;
